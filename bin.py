@@ -2,7 +2,7 @@ import aiohttp
 import asyncio
 import redis.asyncio as redis
 
-API_NINJAS_KEY = "IW5xn5sImzBjUxP2OPf1TUwuGRlSJMsEHFJv38En"
+
 REDIS_URL = "redis://localhost:6379"
 
 EU_COUNTRIES_ALPHA2 = {
